@@ -11,3 +11,4 @@ dependencies:
   - pandas
   - azure-storage-blob
   - scikit-learn 
+  - matplotlib
