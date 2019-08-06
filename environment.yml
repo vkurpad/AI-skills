@@ -12,3 +12,4 @@ dependencies:
   - azure-storage-blob
   - scikit-learn 
   - matplotlib
+  - azure-cosmosdb-table
